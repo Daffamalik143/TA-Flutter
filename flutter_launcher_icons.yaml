@@ -1,0 +1,6 @@
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/launcher.png" # Replace with the path to your Android launcher icon
+
+  # flutter_launcher_icons:main
